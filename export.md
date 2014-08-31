@@ -1,6 +1,6 @@
 # Data export format
 
-If you choose to export your data from Moodprint, this is what you'll get.
+If you choose to export your data from Moodprint, you'll get a gzipped file containing JSON. Here's what it'll look like.
 
 ## Example
 
