@@ -22,7 +22,7 @@ If you choose to export your data from Moodprint, this is what you'll get.
         }
       ]
     },
-    ...
+    // ...
   ]
 }
 ```
